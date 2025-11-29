@@ -83,7 +83,7 @@
 ### 🔹 **TerraStay — Airbnb-style Booking Platform**
 🌍 Full MERN stack accommodation platform  
 📦 Features: Authentication, Listings, Cloudinary, Filters  
-🔗 **GitHub:** https://github.com/MansiMore-0817/TerraStay
+🔗 **GitHub:** https://github.com/MansiMore-0817/terrastay-app
 
 ---
 
@@ -95,7 +95,7 @@
 
 ### 🔹 **Vidora — Video Conferencing App (WebRTC + MERN)**
 🎥 Real-time P2P calling, lobby system, room management  
-🔗 **GitHub:** https://github.com/MansiMore-0817/Vidora
+🔗 **GitHub:** https://github.com/MansiMore-0817/Vidora_App
 
 ---
 
