@@ -83,7 +83,7 @@
 ### 🔹 **TerraStay — Airbnb-style Booking Platform**
 🌍 Full MERN stack accommodation platform  
 📦 Features: Authentication, Listings, Cloudinary, Filters  
-🔗 **GitHub:** https://github.com/MansiMore-0817/terrastay-app
+🔗 **GitHub:** https://github.com/MansiMore-0817/terrastay-booking-app
 
 ---
 
