@@ -111,6 +111,9 @@
 
 ⭐ **If my work inspires you, consider giving a star to any project!**
 
+<p align="center">Built by <b>Mansi More</b> • moremansi1707@gmail.com</p>
+
+
 <!--
 **MansiMore-0817/MansiMore-0817** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
