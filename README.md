@@ -12,65 +12,71 @@
 - 🛠️ I love building **real-world, fully functional applications**  
 - 📚 Currently improving my MERN stack depth and building more real-world applications. 
 - 🎯 Looking for **internships** (remote/on-site) to apply my skills in real projects  
-- ⚡ Fun Fact: I debug faster with music 🎧  
+- ⚡ Fun Fact: Give me chai and a problem — the rest is handled. ☕ 
 
 ---
 
 ## 🧰 Tech Stack & Tools
 
-## 🧰 Tech Stack
+<p align="center">  
+  <i>Tools & technologies I use to build modern full-stack applications</i>  
+</p>
+
+---
 
 ### 🌐 Frontend
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=white"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-2A1A3D?style=for-the-badge&logo=html5&logoColor=FF5722"/>
+  <img src="https://img.shields.io/badge/CSS3-2A1A3D?style=for-the-badge&logo=css3&logoColor=2196F3"/>
+  <img src="https://img.shields.io/badge/JavaScript-2A1A3D?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/React-2A1A3D?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-2A1A3D?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8"/>
+  <img src="https://img.shields.io/badge/EJS-2A1A3D?style=for-the-badge&logo=ejs&logoColor=white"/>
 </p>
 
 ### ⚙️ Backend
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Multer-FF6F00?style=for-the-badge&logo=multer&logoColor=white"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-2A1A3D?style=for-the-badge&logo=node.js&logoColor=8CC84B"/>
+  <img src="https://img.shields.io/badge/Express.js-2A1A3D?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_API-2A1A3D?style=for-the-badge&logo=postman&logoColor=FF6C37"/>
+  <img src="https://img.shields.io/badge/JWT-2A1A3D?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Multer-2A1A3D?style=for-the-badge&logo=multer&logoColor=F28E2B"/>
 </p>
 
 ### 🗄️ Database
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/MongoDB-2A1A3D?style=for-the-badge&logo=mongodb&logoColor=4EA94B"/>
+  <img src="https://img.shields.io/badge/Mongoose-2A1A3D?style=for-the-badge&logo=mongoose&logoColor=B00000"/>
 </p>
 
 ### 🔴 Real-Time / WebRTC
-<p>
-  <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/WebRTC-2A1A3D?style=for-the-badge&logo=webrtc&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Socket.IO-2A1A3D?style=for-the-badge&logo=socketdotio&logoColor=white"/>
 </p>
 
 ### 🛠️ Tools & Packages
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white"/>
-  <img src="https://img.shields.io/badge/dotenv-ECD53F?style=for-the-badge&logo=dotenv&logoColor=black"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-2A1A3D?style=for-the-badge&logo=git&logoColor=F05032"/>
+  <img src="https://img.shields.io/badge/GitHub-2A1A3D?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-2A1A3D?style=for-the-badge&logo=postman&logoColor=FF6C37"/>
+  <img src="https://img.shields.io/badge/NPM-2A1A3D?style=for-the-badge&logo=npm&logoColor=CB3837"/>
+  <img src="https://img.shields.io/badge/Nodemon-2A1A3D?style=for-the-badge&logo=nodemon&logoColor=76D04B"/>
+  <img src="https://img.shields.io/badge/dotenv-2A1A3D?style=for-the-badge&logo=dotenv&logoColor=AEAE00"/>
 </p>
 
 ### ☁️ Cloud & Deployment
-<p>
-  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Cloudinary-2A1A3D?style=for-the-badge&logo=cloudinary&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Render-2A1A3D?style=for-the-badge&logo=render&logoColor=46E3B7"/>
+  <img src="https://img.shields.io/badge/Netlify-2A1A3D?style=for-the-badge&logo=netlify&logoColor=00C7B7"/>
+  <img src="https://img.shields.io/badge/Vercel-2A1A3D?style=for-the-badge&logo=vercel&logoColor=white"/>
 </p>
 
 
----
+
+
+
 
 ## 📌 Featured Projects
 
@@ -108,6 +114,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
+
+
 
 ⭐ **If my work inspires you, consider giving a star to any project!**
 
