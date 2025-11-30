@@ -32,6 +32,8 @@
   <img src="https://img.shields.io/badge/React-2A1A3D?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/TailwindCSS-2A1A3D?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8"/>
   <img src="https://img.shields.io/badge/EJS-2A1A3D?style=for-the-badge&logo=ejs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Material_UI-2A1A3D?style=for-the-badge&logo=mui&logoColor=007FFF"/>
+
 </p>
 
 ### ⚙️ Backend
@@ -47,12 +49,16 @@
 <p align="center">
   <img src="https://img.shields.io/badge/MongoDB-2A1A3D?style=for-the-badge&logo=mongodb&logoColor=4EA94B"/>
   <img src="https://img.shields.io/badge/Mongoose-2A1A3D?style=for-the-badge&logo=mongoose&logoColor=B00000"/>
+  <img src="https://img.shields.io/badge/MySQL-2A1A3D?style=for-the-badge&logo=mysql&logoColor=white"/>
+
 </p>
 
 ### 🔴 Real-Time / WebRTC
 <p align="center">
   <img src="https://img.shields.io/badge/WebRTC-2A1A3D?style=for-the-badge&logo=webrtc&logoColor=white"/>
   <img src="https://img.shields.io/badge/Socket.IO-2A1A3D?style=for-the-badge&logo=socketdotio&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Google_Maps_Embed_API-2A1A3D?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+
 </p>
 
 ### 🛠️ Tools & Packages
@@ -73,6 +79,12 @@
   <img src="https://img.shields.io/badge/Vercel-2A1A3D?style=for-the-badge&logo=vercel&logoColor=white"/>
 </p>
 
+
+### 🎨 UI / Animation Libraries
+<p align="center">
+  <img src="https://img.shields.io/badge/Framer_Motion-2A1A3D?style=for-the-badge&logo=framer&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Lottie_Animations-2A1A3D?style=for-the-badge&logo=lottie&logoColor=00D8FF"/>
+</p>
 
 
 
