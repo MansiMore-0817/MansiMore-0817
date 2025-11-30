@@ -92,7 +92,7 @@
 
 ## 📌 Featured Projects
 
-### 🔹 **TerraStay — Airbnb-style Booking Platform**
+### 🔹 **TerraStay — Booking Platform**
 🌍 Full MERN stack accommodation platform  
 📦 Features: Authentication, Listings, Cloudinary, Filters  
 🔗 **GitHub:** https://github.com/MansiMore-0817/terrastay-booking-app
@@ -100,7 +100,7 @@
 ---
 
 ### 🔹 **EquiTrade — Stock Trading Simulation**
-📈 Real-time stock dashboard + trading UI  
+📈  Stock dashboard + trading UI  
 🔗 **GitHub:** https://github.com/MansiMore-0817/Equitrade_WebApp
 
 ---
