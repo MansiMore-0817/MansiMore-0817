@@ -101,7 +101,7 @@
 
 ### 🔹 **EquiTrade — Stock Trading Simulation**
 📈  Stock dashboard + trading UI  
-🔗 **GitHub:** https://github.com/MansiMore-0817/Equitrade_WebApp
+🔗 **GitHub:** https://github.com/MansiMore-0817/Equitrade_TradingApp
 
 ---
 
